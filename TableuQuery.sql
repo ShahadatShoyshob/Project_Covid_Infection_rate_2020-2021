@@ -1,6 +1,6 @@
 /*
 
-Queries used for Tableau Project
+Queries used for the Tableau Project
 
 */
 
@@ -15,7 +15,6 @@ where continent is not null
 --Group By date
 order by 1,2
 
--- Just a double check based off the data provided
 -- numbers are extremely close so we will keep them - The Second includes "International"  Location
 
 
